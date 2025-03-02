@@ -1,0 +1,55 @@
+# Ignore Visual Studio and Rider files
+.vs/
+*.csproj
+*.sln
+*.suo
+*.user
+*.unityproj
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.opendb
+*.VC.db
+*.sdf
+*.log
+
+# Ignore Unity-generated folders
+Library/
+Logs/
+Obj/
+Temp/
+UserSettings/
+
+# Ignore Build files
+Build/
+Builds/
+Exports/
+
+# Ignore dependencies
+Packages/
+
+# Ignore crashes, exceptions, and logs
+CrashReports/
+*.stacktrace
+
+# Ignore Unity metadata
+*.pidb
+*.tmp
+*.bak
+*.swp
+*.lock
+*.ldb
+
+# Ignore local user settings
+*.userprefs
+
+# Ignore JetBrains Rider project files
+.idea/
+
+# Ignore PlayMode and Editor logs
+*.log
+
+# Ignore Auto-generated files
+*.csproj
+*.unitypackage
